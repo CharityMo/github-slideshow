@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Steps to adding a file and commiting
+I am getting there
 Use the left arrow to go back!
